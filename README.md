@@ -1,3 +1,15 @@
+# Yangban Code
+
+- 8+ Years Experienced Software Engineer
+- Background in Startups, Public Sector, and Enterprises
+- Erlang/OTP & Elixir Distributed Systems Specialist
+
+
+## Experience
+
+TODO
+
+
 ## Certifications
 
 | Certification | Issuer | Issue Date | Expiration Date |
