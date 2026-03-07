@@ -4,18 +4,27 @@
 - Erlang/OTP & Elixir Distributed Systems Specialist
 - Diverse Background: Startups, Public Sector, and Enterprises
 
+<br>
 
 ## Experience
 
 TODO
 
+<br>
 
 ## Certifications
 
 | Certification | Issuer | Issue Date | Expiration Date |
 | :--- | :--- | :--- | :--- |
-| **KCNA** (Kubernetes and Cloud Native Associate) | CNCF | March 6, 2026 | March 6, 2028 |
+| KCNA (Kubernetes and Cloud Native Associate) | CNCF | March 6, 2026 | March 6, 2028 |
 
+<br>
+
+## Education
+
+TODO
+
+<br>
 
 ## Contact
 
