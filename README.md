@@ -1,7 +1,8 @@
 # Yangban Code
 
 - 8+ Years Experienced Software Engineer
-- Background in Startups, Public Sector, and Enterprises
+  - Background in Startups, Public Sector, and Enterprises
+  - Domain Expertise in Cryptocurrency Exchanges, Fashion E-commerce, Healthcare and AI Media
 - Erlang/OTP & Elixir Distributed Systems Specialist
 
 
