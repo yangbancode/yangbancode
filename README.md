@@ -1,3 +1,10 @@
+## Certifications
+
+| Certification | Issuer | Issue Date | Expiration Date |
+| :--- | :--- | :--- | :--- |
+| **KCNA** (Kubernetes and Cloud Native Associate) | CNCF | March 6, 2026 | March 6, 2028 |
+
+
 ## Contact
 
 If you have any questions, please contact me via email at [github.oxford898@passmail.com](mailto:github.oxford898@passmail.com).
